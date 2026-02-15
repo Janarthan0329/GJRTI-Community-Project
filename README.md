@@ -238,20 +238,6 @@ Financial operations include:
 
 ---
 
-### 📅 Attendance Tracking
-
-![Attendance](assets/screenshots/attendance.png)
-
-Instructors can digitally record attendance and the system automatically stores and analyzes participation records.
-
----
-
-### 🎓 Certificate & Results
-
-![Certificate](assets/screenshots/certificate.png)
-
-Students can view results and download course completion certificates after successfully finishing the course.
-
 
 ## 💻 System Requirements
 
