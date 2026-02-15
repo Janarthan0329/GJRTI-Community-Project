@@ -162,48 +162,6 @@ Database (MongoDB)
 
 ---
 
-## ⚙️ Installation Guide
-
-### 1️⃣ Clone the repository
-
-```bash
-git clone https://github.com/your-username/gjrti-mis.git
-cd gjrti-mis
-```
-
-### 2️⃣ Backend Setup
-
-```bash
-cd backend
-npm install
-npm start
-```
-
-### 3️⃣ Frontend Setup
-
-```bash
-cd frontend
-npm install
-npm run dev
-```
-
-### 4️⃣ Database
-
-Install MongoDB and create a database:
-
-```
-Database name: gjrti_mis
-```
-
-Create `.env` file in backend folder:
-
-```
-PORT=5000
-MONGO_URI=mongodb://localhost:27017/gjrti_mis
-JWT_SECRET=your_secret_key
-```
-
----
 
 ## 💻 System Requirements
 
@@ -253,13 +211,13 @@ Sabaragamuwa University of Sri Lanka
 * R. L. T. N. Rathnayaka
 * L. D. A. Thilakarathne
 * M. S. Hewage
-* J. Vijayakumar
+* V. Janarthan
 
 ---
 
 ## 📄 License
 
-This project is developed for academic and research purposes.
+This project is developed for academic and community purposes but with Confidentiality agreement with GJRTI.
 You may use, modify, and extend it for educational or institutional use with proper attribution.
 
 ---
