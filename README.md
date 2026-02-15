@@ -162,6 +162,96 @@ Database (MongoDB)
 
 ---
 
+## 📸 Screenshots
+
+### 🏠 Home Page / Student Portal
+
+![Home Page](assets/screenshots/home.png)
+
+The landing page provides general information about the institute and allows students to access courses, announcements, and login to the system.
+
+---
+
+### 📊 Admin Dashboard
+
+![Dashboard](assets/screenshots/dashboard.png)
+
+The dashboard displays system statistics such as:
+
+* total students
+* active courses
+* staff members
+* enrollment trends
+
+Administrators can quickly monitor institutional activities from this panel.
+
+---
+
+### 📝 Applicant & Enrollment Management
+
+![Enrollment](assets/screenshots/enrollment.png)
+
+Admins can:
+
+* view applicants
+* approve/reject applications
+* manage enrollment records
+* track application status
+
+---
+
+### 👩‍🏫 Staff Management
+
+![Staff](assets/screenshots/staff.png)
+
+This module allows administrators to:
+
+* add instructors and staff
+* edit employee details
+* assign roles and responsibilities
+
+---
+
+### 🧪 Exams Management
+
+![Exams](assets/screenshots/exams.png)
+
+The exam module supports:
+
+* exam scheduling
+* student exam registration
+* marks entry
+* results publication
+
+---
+
+### 💰 Course Fee & Financial Management
+
+![Finance](assets/screenshots/finance.png)
+
+Financial operations include:
+
+* fee tracking
+* payment status
+* outstanding balances
+* financial reports
+
+---
+
+### 📅 Attendance Tracking
+
+![Attendance](assets/screenshots/attendance.png)
+
+Instructors can digitally record attendance and the system automatically stores and analyzes participation records.
+
+---
+
+### 🎓 Certificate & Results
+
+![Certificate](assets/screenshots/certificate.png)
+
+Students can view results and download course completion certificates after successfully finishing the course.
+
 
 ## 💻 System Requirements
 
