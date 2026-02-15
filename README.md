@@ -96,7 +96,7 @@ The MIS:
 
 * HTML / CSS / JavaScript
 * Responsive UI
-* UI/UX designed in Figma
+* UI/UX designed in Figma (https://www.figma.com/design/tvnMqCIoHQvX3r7aaXJQk3/GJRTI?node-id=0-1&t=OVAZJfUm4YjOvxAS-1)
 * ShadCN components
 
 ### Backend
